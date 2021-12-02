@@ -20,6 +20,6 @@ Easy Data Augmentation을 활용해 클래스 분포를 균일하게 설정
 
 검출한 특수문자
 
-![](sample/.png)
+![](sample/special_case.png)
 
 ## 모델 학습 결과
