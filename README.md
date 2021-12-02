@@ -5,6 +5,7 @@ Dacon 뉴스 토픽 분류 AI 경진대회 : https://dacon.io/competitions/offic
 ## 데이터 분석
 
 데이터 분포 분석
+
 ![](sample/data_distribution.png)
 
 ## 전처리 적용
