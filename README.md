@@ -4,7 +4,7 @@ Dacon 뉴스 토픽 분류 AI 경진대회 : https://dacon.io/competitions/offic
 
 ## 데이터 분석
 
-데이터 분포 분석
+데이터 분포도를 통해 어느정도 inbalanced data distribution을 갖고있다는 점을 확인
 
 ![](sample/data_distribution.png)
 
