@@ -33,7 +33,7 @@ TF-IDF
 
 Word2Vec
 
-![](sample/length of samples.png)
+![](sample/length_of_samples.png)
 
 - 완성된 임베딩 매트릭스의 크기 : (11195, 100)
 - "북한" 과 가장 유사한 단어
