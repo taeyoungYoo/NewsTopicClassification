@@ -39,5 +39,13 @@ Word2Vec
 - "북한" 과 가장 유사한 단어
    [('유엔', 0.9455116987228394), ('김정은', 0.940281093120575), ('정부', 0.9323728084564209), ('도발', 0.9322386384010315), ('외교', 0.9315954446792603), ('핵', 0.9292498826980591), ('총리', 0.9286845326423645), ('인권', 0.9266415238380432), ('회담', 0.9243283867835999), ('안보리', 0.9243077039718628)]
 
+## 데이터 증강
+- Easy data augmentation
+- 참고 링크: [Easy data augmentation(EDA)](https://github.com/catSirup/KorEDA)
 
-## 모델 학습 결과
+## 데이터 시각화
+
+Wordcloud
+- wordcloud를 통해 데이터 시각화 분석
+- 참고 링크: [wordcloud github repository](https://github.com/amueller/word_cloud)
+![](sample/wordcloudpng.png)
