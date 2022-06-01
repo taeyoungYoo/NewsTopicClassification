@@ -42,10 +42,14 @@ Word2Vec
 ## 데이터 증강
 - Easy data augmentation
 - 참고 링크: [Easy data augmentation(EDA)](https://github.com/catSirup/KorEDA)
+- Random swap, random insertion을 적용해 데이터 증강 진행
+
+![](sample/eda.png)
 
 ## 데이터 시각화
 
 Wordcloud
 - wordcloud를 통해 데이터 시각화 분석
 - 참고 링크: [wordcloud github repository](https://github.com/amueller/word_cloud)
+
 ![](sample/wordcloudpng.png)
